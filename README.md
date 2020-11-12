@@ -83,3 +83,10 @@ Length (20 min)
   - 6.2 Course wrap-up and next steps, and where to go from here
   
   
+# References
+
+William W.S. Wei. (2005) Time Series Analysis: Univariate and Multivariate Methods , 2nd Edition.
+
+Hyndman, R.J., & Athanasopoulos, G. (2018) Forecasting: principles and practice, 2nd edition, OTexts: Melbourne, Australia. OTexts.com/fpp2.
+
+Richard J. Larsen, and Morris L. Marx. (2017) Introduction to Mathematical Statistics and Its Applications, 6th Edition.
