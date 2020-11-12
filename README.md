@@ -36,7 +36,7 @@ Length (40 min, including 10 minutes for exercise and a 10-minute break)
 
   
 ## 2. Exploratory Time Series Data Analysis and ARMA Model Formulation
-Length (60 min, including 10 minutes for exercise and a 10-minute break)
+Length (60 min, including 15 minutes for exercise and a 10-minute break)
 
   - 2.1 A brief discussion on the notion of stochastic processes, time series, stationarity, and basic terminology of time series analysis
   - 2.2 Exploratory Time Series Data Analysis
@@ -48,7 +48,7 @@ Length (60 min, including 10 minutes for exercise and a 10-minute break)
 
   
 ## 3. ETSDA, ARIMA Model Formulation
-Length (60 min, including 10 minutes for exercise and a 10-minute break)
+Length (60 min, including 15 minutes for exercise and a 10-minute break)
 
   - 3.1 Notion of non-stationarity
   - 3.2 Mathematical formulation of ARIMA models
@@ -57,7 +57,7 @@ Length (60 min, including 10 minutes for exercise and a 10-minute break)
 
 
 ## 4. ARIMA  Modeling
-Length (60 min, including 10 minutes for exercise and a 10-minute break)
+Length (60 min, including 15 minutes for exercise and a 10-minute break)
 
   - 4.1 Model Identification
   - 4.2 Model Diagnostic Checking
@@ -68,7 +68,7 @@ Length (60 min, including 10 minutes for exercise and a 10-minute break)
 
 
 ## 5. Seasonal ARIMA Modeling
-Length (60 min, including 10 minutes for exercise and a 10-minute break)
+Length (60 min, including 15 minutes for exercise and a 10-minute break)
 
   - 5.1 Understanding seasonality and examination of seasonal time series
   - 5.2 Mathematical formulation of Seasonal ARIMA (SARIMA) models
